@@ -1,0 +1,16 @@
+
+]
+java:S1220""Move this file to a named package.8Ï¨…„2J$1089d29a-bbed-40e4-afd3-42d069ac4e37
+_
+java:S1643"Use a StringBuilder instead.(Ì§ÉÍ8„Ï¨…„2J$35689417-4bec-4c44-b13b-4c50e5964259
+m	java:S106
+"+Replace this use of System.out by a logger.(¢…Ø8ŒÏ¨…„2J$3c927a54-82cc-47b2-b229-eaeb88cc1930
+\
+java:S2178"Correct this "&" to "&&".(¢•Öî8’Ï¨…„2J$e9b934b1-29b5-4851-a865-1a3750ee5f1a
+\
+java:S2178"Correct this "&" to "&&".(µÙ Š8“Ï¨…„2J$c9ec513c-9e27-443b-9673-7230baae4b8a
+a
+java:S2178"Correct this "&" to "&&".(Ó¸ñúÿÿÿÿ8šÏ¨…„2J$32c4c7ee-f4ef-4b20-a26a-a9191ccec279
+d
+java:S2111""!Use "BigDecimal.valueOf" instead.(¶ÖêÈ8¢Ï¨…„2J$aa1dcbd0-338d-42e3-8950-05724ce8fd5f
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(ÊâĞøÿÿÿÿ8¦Ï¨…„2J$f02a7ce3-19a9-47fb-b001-00489e04d415

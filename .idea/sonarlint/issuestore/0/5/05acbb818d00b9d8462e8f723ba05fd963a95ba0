@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8λι‡„2J$68677f56-262a-4002-9df8-a1ea272545e5
+r	java:S106"+Replace this use of System.out by a logger.(ÒΓƒΩψÿÿÿÿ8λι‡„2J$e7050d09-561a-4e5c-a64a-92ffb7009905
+m	java:S106"+Replace this use of System.out by a logger.(ήρΒΟ8 λι‡„2J$10e570f0-cc65-4a70-9105-36000bdb9b37
+©
+java:S2178 "fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ο³8Άλι‡„2J$bf546c6a-35ad-428d-a00d-8d615b2af3f1
+l	java:S106$"+Replace this use of System.out by a logger.(Ικω8£λι‡„2J$387a22f2-6fd6-46e0-bd99-39f7662e0e16

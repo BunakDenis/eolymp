@@ -1,0 +1,24 @@
+
+]
+java:S1220""Move this file to a named package.8±¾¡«„2J$823834a3-d530-4351-8e39-dcb5f3f16144
+d
+java:S1643#"Use a StringBuilder instead.(š“ûğıÿÿÿÿ8³¾¡«„2J$9c8f6397-60d6-42a5-be6a-fa03b7e91b62
+d
+java:S1643("Use a StringBuilder instead.(ÛûØüÿÿÿÿ8³¾¡«„2J$9766c006-4ead-4458-99e3-07d413d5389a
+d
+java:S1643*"Use a StringBuilder instead.(š“ûğıÿÿÿÿ8³¾¡«„2J$79462ecf-e454-4fa2-ae1c-4ba858e9abc2
+…
+java:S1854""=Remove this useless assignment to local variable "lastDigit".(ëâ‡–ûÿÿÿÿ8¸¾¡«„2J$303f5bf7-e85f-47af-905f-113a27d40d6b
+|
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ÙÎÊá8¹¾¡«„2J$b79dd613-7e92-4e1e-a39c-a43160a6f57b
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Îÿ€ıÿÿÿÿ8¹¾¡«„2J$5f9e300b-a7df-4975-a323-db7ed1a44fe8
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¿‹˜¾ÿÿÿÿÿ8º¾¡«„2J$f4906399-8149-409c-b316-7702bbd4748c
+q
+java:S1481".Remove this unused "lastDigit" local variable.(‚î®Ô8º¾¡«„2J$00c5569b-a51d-4385-ad43-822f3c1a6f79
+m	java:S1061"+Replace this use of System.out by a logger.(¼€Ÿ8»¾¡«„2J$9d2ed6ff-b207-4ed9-86f8-692fb8dfc566
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¡Ï¬«„2J$51d12f12-7300-4346-984a-1eb8201a045c
+w
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8¢Ï¬«„2J$3e657a43-9da0-4ef0-8c77-672432f24a9f
