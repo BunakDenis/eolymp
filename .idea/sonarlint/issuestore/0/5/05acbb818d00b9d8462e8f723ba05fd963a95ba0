@@ -1,8 +1,6 @@
 
 ]
-java:S1220""Move this file to a named package.8˜ëé‡„2J$68677f56-262a-4002-9df8-a1ea272545e5
-r	java:S106"+Replace this use of System.out by a logger.(ÒÃƒÙøÿÿÿÿ8Ÿëé‡„2J$e7050d09-561a-4e5c-a64a-92ffb7009905
-m	java:S106"+Replace this use of System.out by a logger.(ŞñÂÏ8 ëé‡„2J$10e570f0-cc65-4a70-9105-36000bdb9b37
-©
-java:S2178 "fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ŸÏ³Œ8¢ëé‡„2J$bf546c6a-35ad-428d-a00d-8d615b2af3f1
-l	java:S106$"+Replace this use of System.out by a logger.(Éêù8£ëé‡„2J$387a22f2-6fd6-46e0-bd99-39f7662e0e16
+java:S1220""Move this file to a named package.8²ğµ¥…2J$14825541-01b1-4277-90b3-5885b40e317e
+r	java:S106"+Replace this use of System.out by a logger.(ÒÃƒÙøÿÿÿÿ8¼ğµ¥…2J$d0c7c2c8-69ce-4c3a-b64c-173f609f40a5
+m	java:S106"+Replace this use of System.out by a logger.(ŞñÂÏ8½ğµ¥…2J$e6108cb3-0de4-4e96-bf0f-24a0a59dc77f
+~	java:S125K"<This block of commented-out lines of code should be removed.(ÿüÎ“8Áğµ¥…2J$81802cc6-4b18-4e99-8439-4cb3cbb40258

@@ -1,17 +1,15 @@
 
-]
-java:S1220""Move this file to a named package.8¥Ø«„2J$9633358f-aa3c-4706-ae17-9ec598494533
-d
-java:S1643 "Use a StringBuilder instead.(š“ûğıÿÿÿÿ8¥Ø«„2J$8ec686f0-f2f2-4f59-a4c6-1dd7457eb58c
-…
-java:S1854"=Remove this useless assignment to local variable "lastDigit".(ëâ‡–ûÿÿÿÿ8˜¥Ø«„2J$5f25b1c0-290d-4d91-84c1-f9ad4029e96f
-|
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ÙÎÊá8™¥Ø«„2J$4726ab98-13db-40ec-8a11-158e0c8bf375
-
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Îÿ€ıÿÿÿÿ8š¥Ø«„2J$1d29ec3f-c54b-4dd7-9e9f-28475806e0aa
-
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¿‹˜¾ÿÿÿÿÿ8š¥Ø«„2J$9c6dc917-4147-4456-afe9-fe30ba5ee275
-q
-java:S1481".Remove this unused "lastDigit" local variable.(‚î®Ô8›¥Ø«„2J$60457146-e866-4c41-a011-018d0db37ff8
-~	java:S125"<This block of commented-out lines of code should be removed.(Ì©–ˆ8œ¥Ø«„2J$0532695e-8d4c-49ee-af73-0f370671555b
-m	java:S106$"+Replace this use of System.out by a logger.(¿˜Õ‘8œ¥Ø«„2J$4ebfdfda-5d51-420d-983b-cb499bc039d8
+7
+java:S1220""Move this file to a named package.8×İË„2
+>
+java:S1643"Use a StringBuilder instead.(š“ûğıÿÿÿÿ8ßİË„2
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ÙÎÊá8ùİË„2
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Îÿ€ıÿÿÿÿ8üİË„2
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¿‹˜¾ÿÿÿÿÿ8ÿİË„2
+X	java:S125"<This block of commented-out lines of code should be removed.(Ì©–ˆ8…ŞË„2
+L	java:S106"+Replace this use of System.out by a logger.(Õ·Ş…şÿÿÿÿ8ˆŞË„2
+L	java:S106!"+Replace this use of System.out by a logger.(˜øÆÅıÿÿÿÿ8‹ŞË„2
+G	java:S106#"+Replace this use of System.out by a logger.(¿˜Õ‘8ŞË„2

@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûëûâ8ªÃ¡’ˆ2J$623e24dc-8375-40ee-a8d1-c66416675a10
+Ÿ	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ8­Ã¡’ˆ2J$523585a9-841e-4023-a266-0cd6f529b642
+r	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8µÃ¡’ˆ2J$dcb72f0d-e239-4362-88ab-43be54ab6b4a
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(¦À¼äÿÿÿÿÿ8¶Ã¡’ˆ2J$9884e847-68bc-4b5c-ad76-6bb1a64e5f8d
+|
+java:S1118)":Add a private constructor to hide the implicit public one.(¦¬”.8ºÃ¡’ˆ2J$d17143d4-8755-441a-8c76-c6aa27fc4935

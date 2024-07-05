@@ -15,24 +15,23 @@ public class Problem11Version2 {
         int m = Integer.valueOf(massiv[0]);
         int n = Integer.valueOf(massiv[1]);
         int k = Integer.valueOf(massiv[2]);
-        int lastDigit = 0;
         String cap;
 
-            cap = String.valueOf((m / n)) + ".";
-            int qaliq = m % n;
-            m = qaliq * 10;
+        cap = String.valueOf((m / n)) + ".";
+        int qaliq = m % n;
+        m = qaliq * 10;
 
 /*            if (k != 0) {
                 cap += ".";
             }*/
 
-
-            for (int i = 1; i <= k; i++) {
-                    lastDigit = (m / n);
-                    cap += (m / n);
-                    qaliq = m % n;
-                    m = qaliq * 10;
-            }
+        for (int i = 1; i <= k; i++) {
+            cap += (m / n);
+            qaliq = m % n;
+            System.out.println("qaliq = " + qaliq);
+            m = qaliq * 10;
+            System.out.println("m = " + m);
+        }
         System.out.println(cap);
     }
 }

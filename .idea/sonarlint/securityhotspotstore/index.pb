@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-Q
-!src/test/java/Problem11Tests.java,a\3\a346d4c1a42045c6a265aba03f817998c3bf2cbe
 L
 src/main/java/Problem11.java,d\c\dc8a6f1ab0308e7ed5bd5f35b7f8fccfbebc912c
 G
@@ -15,3 +13,19 @@ K
 src/main/java/Problem3.java,0\5\05acbb818d00b9d8462e8f723ba05fd963a95ba0
 T
 $src/main/java/Problem11Version2.java,6\3\63596bc70c2eba47359d5710db107722d94544f9
+P
+ src/test/java/Problem3Tests.java,7\b\7bada59ced88f975eb41770b1be9703345b6a5a8
+O
+src/test/java/Problem4Test.java,f\1\f1dc9db3ccaa98ec721a9249da5be193bfc136a2
+T
+$src/main/java/problem4/Problem4.java,2\8\28de8ab2a6ad347d73f77afe5daf7106b9281040
+R
+"src/main/java/problem4/Circle.java,f\2\f28b695bd527accb5ad357e1708bc0232ec04026
+i
+9src/main/java/problem4/CircleIntersectionCalculation.java,d\7\d76ccc010d9bf8f55322b28de5087d38259b7565
+X
+(src/main/java/problem4/CircleParser.java,8\2\82f6ca2509413af14c65b3c3d1a7f449bf61d0f1
+X
+(src/test/java/problem4/Problem4Test.java,1\b\1b89ddfd8871b7033f0e85747b26b38e698ff0b8
+\
+,src/test/java/problem4/CircleParserTest.java,0\3\03290ee6ccfc6592d61d70ebc188d67d0da788dc
