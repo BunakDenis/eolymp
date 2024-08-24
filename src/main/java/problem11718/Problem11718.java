@@ -26,25 +26,24 @@ public class Problem11718 {
 
         List<Integer> results = new ArrayList<>();
         for (int i = 0; i < numberOfeRequest; i++) {
-            int result = 0;
+            int countOfConcurrence = 0;
             List<Integer> countOfConcurrrences = new ArrayList<>();
+            List<Character> checkedLetters = new ArrayList<>();
             int startIndex = firstIndexes.get(i) - 1;
             int lastIndex = lastIndexes.get(i) - 1;
-            System.out.println("startIndex = " + startIndex + " lastIndex = " + lastIndex);
 
-            for (int j = startIndex; j < lastIndex; j++) {
-                List<Character> checkedLetters = new ArrayList<>();
+            for (int j = startIndex; j <= lastIndex; j++) {
                 char letter = letters[j];
-                int countOfConcurrence = 0;
                 int concurrence = 1;
 
                 if (!checkedLetters.contains(letter)) {
-                    for (int k = j + 1; k < lastIndex; k++) {
+                    for (int k = j + 1; k <= lastIndex; k++) {
 
                         if (letter == letters[k]) {
                             if (concurrence > 0) {
                                 countOfConcurrence++;
                             }
+                            concurrence++;
                         } else {
                             concurrence = 0;
                         }
@@ -60,7 +59,7 @@ public class Problem11718 {
             if (max.isPresent()) {
                 results.add(max.get());
             } else {
-                results.add(result);
+                results.add(countOfConcurrence);
             }
         }
         results.forEach(System.out::println);

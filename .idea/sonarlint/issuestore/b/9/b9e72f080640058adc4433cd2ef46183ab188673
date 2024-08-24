@@ -1,10 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÊ®ùÿÿÿÿ8¨ÕĞ²˜2J$f0ce85cc-be75-47be-8e86-d158971dc4d1
-t
-java:S1144"1Remove this unused private "firstVariant" method.(ê’ÑÈ8è„ü²˜2J$867df377-96ec-4d5e-9754-253c45337dce
-Š
-java:S1854"BRemove this useless assignment to local variable "countOfEnemies".(œıÚÿÿÿÿÿ8­ÕĞ²˜2J$0ad3cf8d-63df-4099-948e-3c89be2edf4b
-{
-java:S1481"3Remove this unused "countOfEnemies" local variable.(œıÚÿÿÿÿÿ8²ÕĞ²˜2J$6f7baca1-e900-4bd2-8ff3-95998f958bed
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÊ®ùÿÿÿÿ8¨ÕĞ²˜2J$a43d70d6-a445-48ee-859f-88952e022303
 •
-java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¤ƒÊ8·ÕĞ²˜2J$03f720b2-6a20-48ca-8e02-bc120e2e8223
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¤ƒÊ8·ÕĞ²˜2J$5a8ad202-ccef-41b3-b4c5-e323eb85881e
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Á³˜2J$9c3184e3-7d0d-4f21-b01b-47d73e45c7e5

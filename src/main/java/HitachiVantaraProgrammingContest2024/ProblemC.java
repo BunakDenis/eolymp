@@ -11,7 +11,7 @@ public class ProblemC {
         Scanner scanner = new Scanner(System.in);
         List<Integer> enemiesHealth = new ArrayList<>();
 
-        Integer countOfEnemies = Integer.valueOf(scanner.nextLine());
+        scanner.nextLine();
         for (String enemyHealth : scanner.nextLine().split(" ")) {
             enemiesHealth.add(Integer.valueOf(enemyHealth));
         }
@@ -21,27 +21,7 @@ public class ProblemC {
         System.out.println(countOfAttack);
     }
 
-    private static long firstVariant(List<Integer> enemiesHealth, long countOfAttack) {
-        Date startTime = new Date();
-
-
-        for (Integer enemyHealth : enemiesHealth) {
-
-            while (enemyHealth > 0) {
-                countOfAttack++;
-                if ((countOfAttack % 3) == 0) {
-                    enemyHealth = enemyHealth - 3;
-                } else {
-                    enemyHealth--;
-                }
-            }
-        }
-        System.out.println("finish time = " + (new Date().getTime() - startTime.getTime()));
-        return countOfAttack;
-    }
-
     private static long secondVariant(List<Integer> enemiesHealth, long countOfAttack) {
-        Date startTime = new Date();
         for (Integer enemy : enemiesHealth) {
             int enemyCountOfAttack = 0;
             if ((enemy % 5) == 0) {
@@ -75,7 +55,6 @@ public class ProblemC {
 
             }
         }
-        System.out.println("finish time = " + (new Date().getTime() - startTime.getTime()));
         return countOfAttack;
     }
 }
