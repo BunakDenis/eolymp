@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÊ®ùÿÿÿÿ8ÉÇ¡ª˜2J$10e5d115-38d1-455e-b22c-57664c382156
+q
+java:S10663"/Merge this if statement with the enclosing one.(îÎ©Z8ÊÇ¡ª˜2J$f199d3b1-fc6e-4247-a9f9-4f43a202e9d7
+Š
+java:S1854"BRemove this useless assignment to local variable "countOfEnemies".(œıÚÿÿÿÿÿ8ĞÇ¡ª˜2J$052722af-ffee-4b3a-af21-bafc20205813
+{
+java:S1481"3Remove this unused "countOfEnemies" local variable.(œıÚÿÿÿÿÿ8×Ç¡ª˜2J$bcd113c3-8a2f-4845-9ca6-2ddb6f2912ca

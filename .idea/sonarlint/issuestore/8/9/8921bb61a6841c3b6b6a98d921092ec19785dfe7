@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8„Ê¿¢˜2J$918e663b-a3af-4cbb-829f-d416c809c58a
+w
+java:S10662"/Merge this if statement with the enclosing one.(Ó·˜üÿÿÿÿ8…Ê¿¢˜2J$92494b3e-d992-46e7-827b-e000b99ac12a
+‹
+java:S1854"CRemove this useless assignment to local variable "numberOfLetters".(êØı¿ùÿÿÿÿ8‹Ê¿¢˜2J$5c5a06ef-3217-46b7-a25e-07f1d67daa56
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(êØı¿ùÿÿÿÿ8‘Ê¿¢˜2J$dc243831-3fad-4ff6-8b13-c3f1929a2278
+|
+java:S1481"4Remove this unused "numberOfLetters" local variable.(êØı¿ùÿÿÿÿ8’Ê¿¢˜2J$fe75e0d0-3eef-41e9-bd6a-21d4201cbf38
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(”ëıÄıÿÿÿÿ8’Ê¿¢˜2J$956a2a8a-2ed0-459f-9e4b-78edbe263ae6
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8™Ê¿¢˜2J$b7e74606-4481-450a-a908-61de0bc2b6e1

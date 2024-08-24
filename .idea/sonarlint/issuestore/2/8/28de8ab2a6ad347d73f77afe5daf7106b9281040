@@ -1,8 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûëûâ8ªÃ¡’ˆ2J$623e24dc-8375-40ee-a8d1-c66416675a10
-Ÿ	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ8­Ã¡’ˆ2J$523585a9-841e-4023-a266-0cd6f529b642
-r	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8µÃ¡’ˆ2J$dcb72f0d-e239-4362-88ab-43be54ab6b4a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûëûâ8ªÃ¡’ˆ2J$687cf6c1-986c-40e1-bd6a-1e4d240c010b
+Ÿ	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ8­Ã¡’ˆ2J$67165c20-757b-40c2-aa27-f2b24741a30e
 ‚
-java:S1118":Add a private constructor to hide the implicit public one.(¦À¼äÿÿÿÿÿ8¶Ã¡’ˆ2J$9884e847-68bc-4b5c-ad76-6bb1a64e5f8d
+java:S1118":Add a private constructor to hide the implicit public one.(¦À¼äÿÿÿÿÿ8¶Ã¡’ˆ2J$ab86f0ed-9883-48de-a1d6-4423bcdecc40
 |
-java:S1118)":Add a private constructor to hide the implicit public one.(¦¬”.8ºÃ¡’ˆ2J$d17143d4-8755-441a-8c76-c6aa27fc4935
+java:S1118)":Add a private constructor to hide the implicit public one.(¦¬”.8ºÃ¡’ˆ2J$41e2a2d0-2563-4dc6-a535-3c9bbcd2a140

@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–½ëÓúÿÿÿÿ8œÙö ˜2J$b47735d7-d667-4f0c-9a85-fa686aa32265
+‰
+java:S1854"FRemove this useless assignment to local variable "clientQueueChanged".(Å¿îã8ªÙö ˜2J$5bbfa9d1-5b96-477d-9018-d9365d9896d4
+z
+java:S1481"7Remove this unused "clientQueueChanged" local variable.(Å¿îã8²Ùö ˜2J$cf95dcf1-e255-41db-926d-44ceb6b839a4
+~	java:S125"<This block of commented-out lines of code should be removed.(ªı¼ğ8ÄÙö ˜2J$448b4c61-744c-45f0-aca6-5fac2ae93f03
+†
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(øãÃ§üÿÿÿÿ8ÎÙö ˜2J$6a47a958-745a-4596-85ca-72213d9b4bc8
+s
+java:S1481("+Remove this unused "client" local variable.(ì„ƒ‘şÿÿÿÿ8ÏÙö ˜2J$619bffd2-bbeb-4c17-9a5b-32e7ed80d7d5
+p	java:S108(")Either remove or fill this block of code.(ì„ƒ‘şÿÿÿÿ8ÏÙö ˜2J$0c2aa22e-0382-49b9-bd7b-51ee978a525d
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ª©»ª˜2

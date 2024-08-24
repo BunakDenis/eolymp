@@ -1,0 +1,11 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÇÂ¾8°‡Ï¥˜2J$0c8ed008-0be5-41bd-b9cd-c1c9dce162fd
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÊ®ùÿÿÿÿ8°‡Ï¥˜2J$da21ba58-75c6-446d-b93a-8fad67632067
+„
+java:S1854"ARemove this useless assignment to local variable "countOfDigits".(è’é‹8¶‡Ï¥˜2J$f5a2bb94-4292-4316-bb67-8ccdc81bfb3c
+|
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(è’é‹8¹‡Ï¥˜2J$fbeafd46-7dd4-4d90-83d1-80f01aa8b152
+u
+java:S1481"2Remove this unused "countOfDigits" local variable.(è’é‹8º‡Ï¥˜2J$869b9ab2-a1f9-46c8-a23f-afc1fc2d44a5
+\
+java:S2178"Correct this "&" to "&&".(º‡Ãå8¼‡Ï¥˜2J$d03ccd3a-cf86-44e3-8de3-60f20d26fd31

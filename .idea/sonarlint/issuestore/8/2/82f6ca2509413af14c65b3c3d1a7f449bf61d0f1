@@ -1,9 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûëûâ8Ø¾£‘ˆ2
-
-java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÜØ…ş8Ø¾£‘ˆ2
-y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8Ú¾£‘ˆ2
-V
-java:S1118":Add a private constructor to hide the implicit public one.(ŞàÅq8Ş¾£‘ˆ2
-B
-java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8ä¾£‘ˆ2

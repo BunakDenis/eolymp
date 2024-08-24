@@ -1,6 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûëûâ8àùµ‘ˆ2J$0021fd69-44e7-401d-9eeb-9caf9d21613d
-ª
-java:S1319"gThe type of "circles" should be an interface such as "List" rather than the implementation "ArrayList".(ìØ‡8ñùµ‘ˆ2J$d751380a-2123-41ba-afda-adc0d658835a
-}
-java:S1118":Add a private constructor to hide the implicit public one.(òäÖ 8ôùµ‘ˆ2J$bfffb6d2-23b0-43d3-91c6-960580403ef9
