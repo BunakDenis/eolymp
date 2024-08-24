@@ -17,9 +17,6 @@ public class ProblemC {
         }
 
         long countOfAttack = 0;
-        countOfAttack = firstVariant(enemiesHealth, countOfAttack);
-        System.out.println(countOfAttack);
-        countOfAttack = 0;
         countOfAttack = secondVariant(enemiesHealth, countOfAttack);
         System.out.println(countOfAttack);
     }
@@ -46,22 +43,37 @@ public class ProblemC {
     private static long secondVariant(List<Integer> enemiesHealth, long countOfAttack) {
         Date startTime = new Date();
         for (Integer enemy : enemiesHealth) {
+            int enemyCountOfAttack = 0;
+            if ((enemy % 5) == 0) {
+                countOfAttack += ((enemy / 5) * 3);
+                enemy = 0;
+            }
 
-            if (countOfAttack != 0) {
-                if (countOfAttack % 3 == 0) {
-                    enemy = enemy - 3;
-                    countOfAttack = countOfAttack + 1;
+            if (enemy > 5) {
+                enemyCountOfAttack += ((enemy / 5) * 3);
+                enemy -= ((enemyCountOfAttack / 3) * 5);
+                countOfAttack += enemyCountOfAttack;
+
+                while (enemy > 0) {
+                    countOfAttack++;
+                    if (countOfAttack % 3 == 0) {
+                        enemy -= 3;
+                    } else {
+                        enemy -= 1;
+                    }
                 }
             }
 
-            if (enemy % 3 == 0) {
-                enemy = enemy - 1;
-                countOfAttack = countOfAttack + 1;
-            }
+            while (enemy > 0) {
 
-            int countOfTripleAttack = enemy / 3;
-            enemy = enemy - (countOfTripleAttack * 3);
-            countOfAttack = countOfAttack + countOfTripleAttack + enemy;
+                countOfAttack++;
+                if (countOfAttack % 3 == 0) {
+                    enemy -= 3;
+                } else {
+                    enemy -= 1;
+                }
+
+            }
         }
         System.out.println("finish time = " + (new Date().getTime() - startTime.getTime()));
         return countOfAttack;
