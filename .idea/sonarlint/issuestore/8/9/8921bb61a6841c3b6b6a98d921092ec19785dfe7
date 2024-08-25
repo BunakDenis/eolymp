@@ -1,5 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8·ÙË±˜2J$097f3933-01cc-4908-8185-132b54bdba85
-•
-java:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8¼ÙË±˜2J$c56cd312-6e30-4925-aedc-d1e5559bf402
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8ıü‘Æ˜2J$0f39998f-c027-40c4-b544-499b480c0390
+z
+java:S1135"2Complete the task associated to this TODO comment.(÷ç‰ãÿÿÿÿÿ8ı‘Æ˜2J$3c182602-8dad-4f73-9b25-ed799e0ec602
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßè±ÿÿÿÿÿ8†ı‘Æ˜2J$14110a77-666a-46e0-823a-3151740ec811
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(³ó¢úÿÿÿÿ8†ı‘Æ˜2J$a8e18a4c-41e3-43fb-826b-9c6394e1a439
+p	java:S108d")Either remove or fill this block of code.(ìŸäŠşÿÿÿÿ8ˆ£•Æ˜2J$cdef8791-b236-4198-9d8d-dd5c1e9e46c1
+a
+java:S2178h"Correct this "&" to "&&".(™¾¹îıÿÿÿÿ8‰ı‘Æ˜2J$be19fa38-88e8-4b8f-b632-9480cb356347
