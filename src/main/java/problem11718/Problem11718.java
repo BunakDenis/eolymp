@@ -9,12 +9,10 @@ public class Problem11718 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         scanner.nextInt();
         int numberOfRequest = scanner.nextInt();
         scanner.nextLine();
         String word = scanner.nextLine();
-        char[] letters = word.toCharArray();
         List<Integer> firstIndexes = new ArrayList<>();
         List<Integer> lastIndexes = new ArrayList<>();
         List<Long> results = new ArrayList<>();
@@ -50,18 +48,20 @@ public class Problem11718 {
 
         //Second Variant
         for (int i = 0; i < numberOfRequest; i++) {
-            List<Character> checkedLetters = new ArrayList<>();
+            Map<String, String> letters = new LinkedHashMap<>();
             long resultOfSecondVariant = 0;
             int startIndex = firstIndexes.get(i) - 1;
             int lastIndex = lastIndexes.get(i);
 
-            for (int j = startIndex; j < lastIndex; j++) {
-                char letter = letters[j];
+            String wordForCheck = word.substring(startIndex, lastIndex);
+            String[] lettersForCheck = wordForCheck.split("");
 
-                if (!checkedLetters.contains(letter)) {
-                    resultOfSecondVariant += secondVariant(word, letter, startIndex, lastIndex);
-                    checkedLetters.add(letter);
-                }
+            for (String letterForCheck : lettersForCheck) {
+                letters.put(letterForCheck, letterForCheck);
+            }
+
+            for (String value : letters.values()) {
+                resultOfSecondVariant += secondVariant(wordForCheck, value);
             }
 
 /*            //Результаты второго варианта
@@ -91,22 +91,17 @@ public class Problem11718 {
         return result;
     }
 
-    public static long secondVariant(String word, int startIndex, int lastIndex) {
+    public static long secondVariant(String word, String letter) {
         long result = 0;
-        String wordForChecking = word.substring(startIndex, lastIndex);
-        String[] letters = wordForChecking.split(String.valueOf(letter));
-        String str = String.valueOf(letter) + String.valueOf(letter);
+        String[] letters = word.split(String.valueOf(letter));
+        String str = letter + letter;
 
-        for (String letter : letters) {
-
-        }
-
-        if (letters.length == 0 & (lastIndex - startIndex) > 1) {
-            result = (wordForChecking.length() - 1);
+        if (letters.length == 0 & word.length() > 1) {
+            result = (word.length() - 1);
         } else {
 
             Pattern pattern = Pattern.compile(str);
-            Matcher m = pattern.matcher(wordForChecking);
+            Matcher m = pattern.matcher(word);
 
             while (m.find()) {
                 result++;

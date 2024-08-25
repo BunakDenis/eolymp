@@ -1,9 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8ıü‘Æ˜2J$0f39998f-c027-40c4-b544-499b480c0390
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8—ãñÆ˜2J$41c165f7-ae7c-4e7e-a5a7-f2b97d877184
 z
-java:S1135"2Complete the task associated to this TODO comment.(÷ç‰ãÿÿÿÿÿ8ı‘Æ˜2J$3c182602-8dad-4f73-9b25-ed799e0ec602
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßè±ÿÿÿÿÿ8†ı‘Æ˜2J$14110a77-666a-46e0-823a-3151740ec811
-ƒ	java:S125D"<This block of commented-out lines of code should be removed.(³ó¢úÿÿÿÿ8†ı‘Æ˜2J$a8e18a4c-41e3-43fb-826b-9c6394e1a439
-p	java:S108d")Either remove or fill this block of code.(ìŸäŠşÿÿÿÿ8ˆ£•Æ˜2J$cdef8791-b236-4198-9d8d-dd5c1e9e46c1
-a
-java:S2178h"Correct this "&" to "&&".(™¾¹îıÿÿÿÿ8‰ı‘Æ˜2J$be19fa38-88e8-4b8f-b632-9480cb356347
+java:S1135"2Complete the task associated to this TODO comment.(÷ç‰ãÿÿÿÿÿ8ŸãñÆ˜2J$c947c2d2-bf09-43cf-ba6b-a3eb4eb898e9
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßè±ÿÿÿÿÿ8¦ãñÆ˜2J$64bcf780-e4ae-4e0d-a4b4-536f08d46c87
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(³ó¢úÿÿÿÿ8©ãñÆ˜2J$c43cfb56-ad73-4b25-a05b-d44cf484835e
+©
+java:S2178c"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(úÑí£8­ãñÆ˜2J$ac094d7c-ed9c-4e18-ab7a-400f314c6072
