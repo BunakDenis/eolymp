@@ -1,4 +1,16 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8î¸ ù˜2J$26b0001b-361a-4d1e-a200-b39b523732d1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×­ÚÛ8úÜº š2J$d13dfc16-1f8a-419f-854b-93cc3a346726
+š	java:S135R"YReduce the total number of break and continue statements in this loop to use at most one.(ºøËA8ýÜº š2J$a17cf636-34a6-4aee-9231-4c7efbdb2c33
 u
-java:S1135"2Complete the task associated to this TODO comment.(íÑÙ¿8ò¸ ù˜2J$b3f1536c-4e6a-4fc5-b7c8-e996af24def3
+java:S1135"2Complete the task associated to this TODO comment.(íÑÙ¿8ÿÜº š2J$ff7cf48a-c1b3-4cb8-9d4e-79c587ba3e13
+~	java:S125"<This block of commented-out lines of code should be removed.(êÜü€8„Ýº š2J$6822b7c6-fef2-45e6-8315-4b989af7b9ed
+•
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(…óÊ²8‡Ýº š2J$f5bc5fb6-d746-45c4-aefb-68de45cbc3c5
+~	java:S125P"<This block of commented-out lines of code should be removed.(Ó¯£Ã8¬‘Ú š2J$a9b585be-696c-401f-ae7c-d36c6d45dd64
+
+java:S4635T"EReplace "indexOf" with the overload that accepts an offset parameter.(±¦¨–üÿÿÿÿ8ŠÝº š2J$8f4a023e-f0db-492c-8bca-8c62a068aac0
+ƒ	java:S125`"<This block of commented-out lines of code should be removed.(•ýÍÉÿÿÿÿÿ8°‘Ú š2J$c377e29d-86d1-4dc7-9d5b-5e5c49893ac4
+~	java:S125c"<This block of commented-out lines of code should be removed.(­»€µ8°‘Ú š2J$b99a5f89-1d67-4fa5-81cf-e3ec2375fdaa
+ƒ	java:S125u"<This block of commented-out lines of code should be removed.(ÌçÈ§ýÿÿÿÿ8äÆÚ š2J$6d26be35-7859-4b03-8383-c098d54bb4f1
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‹Ýº š2J$2514a4a2-46ef-4008-a4c0-5992fe6aab9f

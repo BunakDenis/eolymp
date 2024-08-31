@@ -145,3 +145,9 @@ G.idea/sonarlint/issuestore/4/5/4561123286b9ba225c2037ba6861f89c8eed950c,e\f\ef
 Q.idea/sonarlint/securityhotspotstore/a/2/a235c5ee3ed1786bbafff5e8601450829404c093,a\e\ae7c5db07b72b4659d0baffa517ebce141283bf2
 w
 G.idea/sonarlint/issuestore/a/2/a235c5ee3ed1786bbafff5e8601450829404c093,4\c\4c2e5dba9082a6c51acbf658f653fb5f1b1d23cb
+L
+src/main/java/Problem10.java,0\6\062a7299382f4ccad7bf66dff256ca50bb91fe3c
+e
+5src/main/java/AtCoderBeginnerContest369/ProblemA.java,7\6\76992fca59851259d3d28707cdaa62c0e2c6e35d
+e
+5src/main/java/AtCoderBeginnerContest369/ProblemC.java,f\c\fc50dded3baa89d1e50e3cd716c97088dabf9087
