@@ -151,3 +151,13 @@ e
 5src/main/java/AtCoderBeginnerContest369/ProblemA.java,7\6\76992fca59851259d3d28707cdaa62c0e2c6e35d
 e
 5src/main/java/AtCoderBeginnerContest369/ProblemC.java,f\c\fc50dded3baa89d1e50e3cd716c97088dabf9087
+b
+2src/main/java/AtCoderBeginnerContest369/Tests.java,e\0\e061f9149ee59b41de3c3712fb5aa5b5f3442901
+L
+src/main/java/Problem17.java,e\b\eb862940ffb646f22ed529f40e79705d78f6d19e
+L
+src/main/java/Problem20.java,4\f\4ffb6d03946d7d7a017c4b610f9331c4ead34eeb
+Q
+!src/test/java/Problem17Tests.java,9\0\906649cf8e67f7da38c56a92ebf1b6e8b67a0ebd
+Q
+!src/test/java/Problem20Tests.java,c\1\c1cf8670cf973ffac755339f6afd398f6b70a5b0
