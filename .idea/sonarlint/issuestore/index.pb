@@ -158,6 +158,12 @@ L
 L
 src/main/java/Problem20.java,4\f\4ffb6d03946d7d7a017c4b610f9331c4ead34eeb
 Q
-!src/test/java/Problem17Tests.java,9\0\906649cf8e67f7da38c56a92ebf1b6e8b67a0ebd
-Q
 !src/test/java/Problem20Tests.java,c\1\c1cf8670cf973ffac755339f6afd398f6b70a5b0
+K
+src/main/java/Problem8.java,6\5\65c35b7e500566ca5377ef02b6ff1d85c5e217c8
+K
+src/main/java/Problem9.java,f\c\fcd40d96c502f7be99333bf57150bdc1949630ae
+L
+src/main/java/Problem12.java,0\1\01ccbb9a706e39642810241d966d31b649f68a71
+L
+src/main/java/Problem16.java,3\e\3e6d08ffc55ea9e5d6e73055d184b37459243b08
